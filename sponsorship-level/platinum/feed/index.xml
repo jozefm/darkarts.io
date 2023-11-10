@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Platinum &#8211; Darkarts</title>
+	<atom:link href="/sponsorship-level/platinum/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Exploit &#38; Stealth Cyber</description>
+	<lastBuildDate>Sat, 15 Apr 2023 00:59:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>AnChain</title>
+		<link>/event-sponsors/anchain/</link>
+		
+		<dc:creator><![CDATA[xadminx]]></dc:creator>
+		<pubDate>Fri, 17 Mar 2023 00:43:45 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=event-sponsors&#038;p=3118</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Randori</title>
+		<link>/event-sponsors/randori/</link>
+		
+		<dc:creator><![CDATA[darkarts]]></dc:creator>
+		<pubDate>Fri, 31 Dec 2021 13:37:16 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=event-sponsors&#038;p=547</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

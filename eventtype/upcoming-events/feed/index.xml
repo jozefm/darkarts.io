@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Upcoming Events &#8211; Darkarts</title>
+	<atom:link href="/eventtype/upcoming-events/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Exploit &#38; Stealth Cyber</description>
+	<lastBuildDate>Fri, 03 Nov 2023 23:02:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>RSA Conference</title>
+		<link>/events/rsac/</link>
+		
+		<dc:creator><![CDATA[xadminx]]></dc:creator>
+		<pubDate>Sat, 01 Jan 2022 19:56:48 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=events&#038;p=706</guid>
+
+					<description><![CDATA[RSA Conference is where the cybersecurity world comes together. For four days, you’ll gain insights, join conversations and experience solutions that could make a huge impact on your organization and your career. With so much change happening in our industry, we’re here to help you stay ahead of it all. We’re excited to be back [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>RSA Conference is where the cybersecurity world comes together. For four days, you’ll gain insights, join conversations and experience solutions that could make a huge impact on your organization and your career. With so much change happening in our industry, we’re here to help you stay ahead of it all. We’re excited to be back in San Francisco, but a Digital Pass is also available for those who cannot attend live.</p>
+
+
+
+<p>However you experience RSAC 2024, you’ll come away with knowledge and insights that will spark ideas and help you make the game-changing decisions that will transform the way you protect the world from threats.</p>
+
+
+
+<p></p>
+
+
+
+<p>The Dark Arts Village will be live in-person at the RSA Conference May 6th &#8211; May 8th hosting Workshops, Labs, Hands-on Training, CTF&#8217;s and a whole lot of Knowledge Transfer.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="106" data-id="3080" src="/wp-content/uploads/2023/03/RSA-Conference&#x2122;-logo-horizontal-transparent-1-1024x106.png" alt="" class="wp-image-3080" srcset="/wp-content/uploads/2023/03/RSA-Conference&#x2122;-logo-horizontal-transparent-1-1024x106.png 1024w, /wp-content/uploads/2023/03/RSA-Conference&#x2122;-logo-horizontal-transparent-1-300x31.png 300w, /wp-content/uploads/2023/03/RSA-Conference&#x2122;-logo-horizontal-transparent-1-768x79.png 768w, /wp-content/uploads/2023/03/RSA-Conference&#x2122;-logo-horizontal-transparent-1.png 1085w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</figure>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="885" height="1024" src="/wp-content/uploads/2023/04/Randori_an_IBM_Company_secondary_lockup_s_RGB-885x1024.png" alt="" class="wp-image-3214" style="aspect-ratio:0.8642578125;width:169px;height:auto" srcset="/wp-content/uploads/2023/04/Randori_an_IBM_Company_secondary_lockup_s_RGB-885x1024.png 885w, /wp-content/uploads/2023/04/Randori_an_IBM_Company_secondary_lockup_s_RGB-259x300.png 259w, /wp-content/uploads/2023/04/Randori_an_IBM_Company_secondary_lockup_s_RGB-768x888.png 768w, /wp-content/uploads/2023/04/Randori_an_IBM_Company_secondary_lockup_s_RGB-1328x1536.png 1328w, /wp-content/uploads/2023/04/Randori_an_IBM_Company_secondary_lockup_s_RGB-1770x2048.png 1770w" sizes="(max-width: 885px) 100vw, 885px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="657" height="363" src="/wp-content/uploads/2023/03/anchain_vertical_transparent-1.png" alt="" class="wp-image-3078" style="width:277px;height:153px" srcset="/wp-content/uploads/2023/03/anchain_vertical_transparent-1.png 657w, /wp-content/uploads/2023/03/anchain_vertical_transparent-1-300x166.png 300w" sizes="(max-width: 657px) 100vw, 657px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1000" height="450" src="/wp-content/uploads/2023/04/Cribl-Logo-2022.png" alt="" class="wp-image-3255" srcset="/wp-content/uploads/2023/04/Cribl-Logo-2022.png 1000w, /wp-content/uploads/2023/04/Cribl-Logo-2022-300x135.png 300w, /wp-content/uploads/2023/04/Cribl-Logo-2022-768x346.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
